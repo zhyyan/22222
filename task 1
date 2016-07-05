@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>baidu task 1</title>
+</head>
+<body>
+      <h1>网页一级标题
+           <ul>
+               <li><a href="">导航链接一</a></li>
+               <li><a href="">导航链接二</a></li>
+               <li><a href="">导航链接三</a></li>
+               <li><a href="">导航链接四</a></li>
+           </ul>
+      </h1>
+      <h2>文章一级标题</h2>
+      <h3>文章二级标题</h3>
+           <p>
+           文章作者 文章发表时间
+           </p>
+           <p>
+           这是一个很长很长的故事，那就长话短说吧，其实要是长话短说的话这个故事也没有那么长，他会变得很短很短
+           </p>
+           <p>
+           有一天A遇见了B，然后B遇见了C，C遇见了D，他们一起去<a href="http://photo.weibo.com/2593401402/wbphotos/large/mid/3947164667908245/pid/9a942a3ajw1f1dyosoqsoj20hs0h4taz">看了猫
+           </p></a>
+           <p>
+           	    <img src="http://ww1.sinaimg.cn/large/9a942a3ajw1f1dyosoqsoj20hs0h4taz.jpg" width="400px" height="400px">
+           </p>
+           <p>
+           为什么去看猫呢因为我想插入这张猫咪的图片所以他们去看了猫没错就是这么任性
+           </p>
+           <p>
+           然后他们又去看了<a href="http://photo.weibo.com/2593401402/wbphotos/large/mid/3947164667908245/pid/9a942a3ajw1f1dyosoqsoj20hs0h4taz"><b>烟花</b></a>
+           </p>
+      <h2>另一篇文章的一级标题</h2>
+      <h3>文章二级标题</h3>
+           <p>文章作者 文章发表时间
+           </p>
+           <p>
+           	之前说道他们看了烟花，然后他们又去看了做了很多很多的事情
+           </p>
+           <p>然后他们去撸串儿，今儿个我们来聊聊–撸串！【撸串】是东北话，就是吃烤串的意思，而且正确来讲得叫“撸串儿”。撸串对于咱这些吃货来讲绝对排“出国后最想念美食”前几名。特别是夏天，来份撸串儿配个啤酒，能让人忆起家乡的美好！想着口水就流下来了。其实，撸串是最能体现吃货品味高低的利器！多伦多吃撸串的地方真是越来越多啦，而每一家都各有特色！今天小编就推荐几家有特色，接地气的吃烤串的好地方！<a href="http://photo.weibo.com/2593401402/wbphotos/large/mid/3896074802900507/pid/9a942a3agw1ewuz3w4p5bj20qk0zkwop">约吗？</a>当然以上内容只是拷贝</p>
+           <p>
+           	    <img src="http://ww2.sinaimg.cn/large/9a942a3agw1ewuz3w4p5bj20qk0zkwop.jpg" width="400px" height="400px"> 
+           </p>   
+           <ul>
+           	    <li>一</li>
+           	    <li>二</li>
+           	    <li>三</li>
+           </ul>     
+       <h2>图片</h2> 
+           <p>一张图片</p>
+           <p>
+       	        <img src="http://ww2.sinaimg.cn/large/9a942a3agw1ewuz3w4p5bj20qk0zkwop.jpg" width="400px" height="600px">
+           </p>
+           <p>又是一张图片</p>
+           <p>
+           	    <img src="http://ww3.sinaimg.cn/mw690/9a942a3agw1ewuz335yb4j21w02ionpd.jpg" width="400px" height="600px">
+           </p>
+           <p>再来一张</p>
+           <p>
+           	    <img src="http://ww2.sinaimg.cn/mw690/9a942a3agw1exp13kbm9aj20hs0nodkq.jpg" width="400px" height="600px">
+           </p>
+       <h2>文章的最后一级标题</h2>
+       <h3>文章二级标题</h3>
+           <p>文章作者 文章发表时间</p>
+           <ul>
+           <ol>
+           	    <li>排名1</li>
+           	    <li>排名2</li>
+           	    <li>排名3</li>
+           </ol>
+           </ul>
+           <table border="1">
+           <tr>
+           <td>表头</td>
+           <td>表头</td>
+           <td>表头</td>
+           </tr>
+           <tr>
+           <td>排名1</td>
+           <td>一是一</td>
+           <td><font color="purple">操作</font></td>
+           </tr>
+           <tr>
+           <td>排名2</td>
+           <td>二十二</td>
+           <td><font color="purple">操作</font></td>
+           </tr>
+           <tr>
+           <td>排名3</td>
+           <td>三十三</td>
+           <td><font color="purple">操作</font></td>
+           </tr>
+           <tr>
+           <td>总计</td>
+           <td colspan="2">是6</td>
+           </tr>
+           </table>
+       <h2>这里以后是一个侧栏</h2>
+       <h3>侧栏注册窗口标题</h3>
+           <p>
+           	请输入邮箱地址：<input type="text" name="emailaddress">
+           </p>
+           <p>
+           	邮箱地址请按要求格式输入
+           </p>
+           <p>
+           	请输入密码：<input type="password" name="password">
+           </p>
+           <p>
+           	密码请为6-16位英文数字
+           </p><br>
+           <p>
+           	性别：<input type="radio" name="gender" value="male"/>男 <input type="radio" name="gender" value="femal"/>女
+           	城市：
+           	<select name="place">
+           		    <option value="zhejiang">浙江</option>
+           		    <option value="shanghai">上海</option>
+           		    <option value="jiangsu">江苏</option>
+           		    <option value="hunan">湖南</option>
+           	</select>
+           	爱好：
+           	<input type="checkbox" name="hobbies" value="sport"/>运动 
+           	<input type="checkbox" name="hobbies" value="art"/>艺术 
+           	<input type="checkbox" name="hobbies" value="science"/>科学 
+           	个人描述：
+           	<textarea rows="2" cols="20">这是一个多行的输入框，输入您的个人描述</textarea>
+           	<input type="submit" name="submit" value="确认提交"/>
+           </p>
+           <p>版权所有©</p>
+</body>
+</html>
