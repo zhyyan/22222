@@ -5,14 +5,15 @@
 	<title>baidu task 1</title>
 </head>
 <body>
-      <h1>网页一级标题
-           <ul>
+      <h1>网页一级标题</h1>
+      <p>
+            <ul>
                <li><a href="">导航链接一</a></li>
                <li><a href="">导航链接二</a></li>
                <li><a href="">导航链接三</a></li>
                <li><a href="">导航链接四</a></li>
            </ul>
-      </h1>
+      </p>
       <h2>文章一级标题</h2>
       <h3>文章二级标题</h3>
            <p>
